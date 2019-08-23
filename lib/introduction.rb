@@ -1,5 +1,7 @@
+name = "Dan"
+
 def introduction
-  puts ""
+  puts "Hi, my name is #{name}."
 
 
 
